@@ -1,34 +1,15 @@
-<div align="center">
-  <h1>Olá, eu sou o Tito Jandozza 👋</h1>
-  <p>Estudante de Desenvolvimento de Sistemas focado em criar soluções eficientes com Python e Engenharia de Dados.</p>
+<h1 align="center">Olá, meu nome é Tito Jandozza</h1>
+<h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
 
-  <p align="center">
-    <a href="mailto:titojandozza@gmail.com" target="_blank">
-      <img src="https://shields.io" alt="Email">
-    </a>
-  </div>
+- Atualmente estou estudando **Desenvolvimento de Sistemas**
 
-<hr>
+- Atualmente estou aprendendo **Python e Banco de dados**
 
-### 🚀 Sobre mim
-- 🔭 **Objetivo:** Atualmente cursando Desenvolvimento de Sistemas e expandindo conhecimentos na área de software.
-- 🌱 **Foco Atual:** Me aprofundando em **Python** e arquitetura de **Banco de Dados**.
-- 💬 **Interesses:** Curto conversar sobre lógica de programação, automações e modelagem de dados.
+- Contatos: **titojandozza@gmail.com**
 
-### 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Tecnologias Dominadas / Em Estudo |
-| :--- | :--- |
-| **Linguagens** | ![Python](https://shields.io) ![Java](https://shields.io) ![C](https://shields.io) |
-| **Banco de Dados** | ![SQLite](https://shields.io) |
-| **DevOps & Ferramentas** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) |
-
-<hr>
-
-### 📊 Métricas do Perfil
-
-<p align="center">
-  <img src="https://shields.io" alt="Tamanho">
-  <img src="https://shields.io" alt="Linguagens">
-  <img src="https://shields.io" alt="Último Commit">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
