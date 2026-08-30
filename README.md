@@ -6,8 +6,7 @@
     <a href="mailto:titojandozza@gmail.com" target="_blank">
       <img src="https://shields.io" alt="Email">
     </a>
-  </p>
-</div>
+  </div>
 
 <hr>
 
@@ -26,9 +25,10 @@
 
 <hr>
 
-### 📊 Minhas Estatísticas
+### 📊 Métricas do Perfil
 
 <p align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+  <img src="https://shields.io" alt="Tamanho">
+  <img src="https://shields.io" alt="Linguagens">
+  <img src="https://shields.io" alt="Último Commit">
 </p>
